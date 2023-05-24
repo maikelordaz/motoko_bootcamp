@@ -1,5 +1,9 @@
 {
   "canisters": {
+    "bootcamp": {
+      "main": "src/day2/main.mo",
+      "type": "motoko"
+    },
     "day1": {
       "main": "src/day1/main.mo",
       "type": "motoko"
